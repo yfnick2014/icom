@@ -1,7 +1,7 @@
 # icom
 notes for "Inside the C++ Object Model" Chinese version
 ## Menu
-- 1. 关于对象（Object Lessons）
+- [1. 关于对象（Object Lessons）](content/01.md)
 - 2. 构造函数语意学（The Semantics of Constructors）
 - 3. Data语意学（The Semantics of Data）
 - 4. Function语意学（The Semantics of Function）
